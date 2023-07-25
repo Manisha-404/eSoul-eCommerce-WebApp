@@ -89,4 +89,4 @@ node seed.js -d
 
 ---
 
-<h4 align="center">Made with ❤️ By Devanshu Gupta</h4> 
+<h4 align="center">Made with ❤️</h4> 
